@@ -70,7 +70,7 @@ To help diagnose and fix the bug/issue, please always include the following in y
 * The Safari version you're using
   * Examples: `Safari 10.0.1`, `Safari TP 18` 
 * The MacOS version you're using
-  * Examples: `MacOS Sierra 10.12.1`, `OSX 10.10.5`
+  * Examples: `macOS Sierra 10.12.1`, `OS X 10.10.5`
 * A list of other extensions you have installed
   * Tip: try disabling them and see if your issue still occurs
 
